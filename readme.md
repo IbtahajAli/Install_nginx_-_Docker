@@ -256,4 +256,5 @@ Here is the Markdown file containing the instructions:
     seconds 0.0.0.0:80-\>80/tcp nginx-reverse-proxy*
 
 2.  **Verify Nginx is running:** <br  />
+
       *sudo systemctl status nginx*
