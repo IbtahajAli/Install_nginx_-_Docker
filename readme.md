@@ -256,6 +256,4 @@ Here is the Markdown file containing the instructions:
     seconds 0.0.0.0:80-\>80/tcp nginx-reverse-proxy*
 
 2.  **Verify Nginx is running:**
-
-    ![](./1000000100000556000003009D6D386C.png){width="5.0028in"
-    height="2.8126in"}
+   * sudo systemctl status nginx *
